@@ -2,5 +2,5 @@ using Mathepia
 using Test
 
 @testset "Mathepia.jl" begin
-    # Write your tests here.
+    @test media_impact_fun(1,2) == exp(-2)
 end

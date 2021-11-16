@@ -1,0 +1,1 @@
+media_impact_fun(x,y) = exp(-x*y) 
