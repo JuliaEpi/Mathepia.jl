@@ -1,3 +1,14 @@
-# Mathepia.jl
+```@meta
+CurrentModule = Mathepia
+```
 
-Documentation for Mathepia.jl
+# Mathepia
+
+Documentation for [Mathepia](https://github.com/Song921012/Mathepia.jl).
+
+```@index
+```
+
+```@autodocs
+Modules = [Mathepia]
+```
