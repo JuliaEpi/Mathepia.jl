@@ -6,11 +6,11 @@ DocMeta.setdocmeta!(Mathepia, :DocTestSetup, :(using Mathepia); recursive=true)
 makedocs(;
     modules=[Mathepia],
     authors="Pengfei Song",
-    repo="https://github.com/Mathepia/Mathepia.jl/blob/{commit}{path}#{line}",
+    repo="https://github.com/JuliaEpi/Mathepia.jl/blob/{commit}{path}#{line}",
     sitename="Mathepia.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://Mathepia.github.io/Mathepia.jl",
+        canonical="https://JuliaEpi.github.io/Mathepia.jl",
         assets=String[]
     ),
     pages=[
@@ -19,6 +19,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/Mathepia/Mathepia.jl",
+    repo="github.com/JuliaEpi/Mathepia.jl",
     devbranch="main"
 )
