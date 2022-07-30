@@ -1,7 +1,7 @@
 # Mathepia
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://Mathepia.github.io/Mathepia.jl/stable)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://Mathepia.github.io/Mathepia.jl/dev)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://JuliaEpi.github.io/Mathepia.jl/stable)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://JuliaEpi.github.io/Mathepia.jl/dev)
 [![Build Status](https://github.com/JuliaEpi/Mathepia.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/JuliaEpi/Mathepia.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Build Status](https://travis-ci.com/JuliaEpi/Mathepia.jl.svg?branch=main)](https://travis-ci.com/JuliaEpi/Mathepia.jl)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/JuliaEpi/Mathepia.jl?svg=true)](https://ci.appveyor.com/project/JuliaEpi/Mathepia-jl)

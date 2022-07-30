@@ -10,7 +10,7 @@ makedocs(;
     sitename="Mathepia.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://Mathepia.github.io/Mathepia.jl",
+        canonical="https://JuliaEpi.github.io/Mathepia.jl",
         assets=String[]
     ),
     pages=[
